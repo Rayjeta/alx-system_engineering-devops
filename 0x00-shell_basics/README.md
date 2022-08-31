@@ -2,3 +2,5 @@ script 0-prints path of working directory
 script 1-prints content list of current directory
 script 2-brings me back to home directory
 script 3-prints directory content in long format
+script 4-prints hidden content in directory
+
