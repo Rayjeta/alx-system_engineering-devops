@@ -4,4 +4,5 @@ script 2-brings me back to home directory
 script 3-prints directory content in long format
 script 4-prints hidden content in directory
 script 5-prints content in directory numerically
+script 6-creates a directory in tmp
 
