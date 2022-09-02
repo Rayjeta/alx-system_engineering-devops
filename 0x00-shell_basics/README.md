@@ -8,3 +8,4 @@ script 6-creates a directory in tmp
 script 7-moves betty file to a directory in tmp
 script 8-deletes my first directoryy in tmp
 script 9-deletes my first directory
+script 10-changes working directory to previous one 
