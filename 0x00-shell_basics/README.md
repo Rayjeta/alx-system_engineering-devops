@@ -5,4 +5,5 @@ script 3-prints directory content in long format
 script 4-prints hidden content in directory
 script 5-prints content in directory numerically
 script 6-creates a directory in tmp
-script 7-moves betty file to a directory in tmp
+script 7-moves betty file to a directory in tm
+script 8-deletes my first directoryy in tmp
