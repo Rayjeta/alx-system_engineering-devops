@@ -12,4 +12,5 @@ script 10-changes working directory to previous one
 script 11-lists all files
 script 12-prints file type
 script 13-creates a symbolic link
+script 14-copies all HTML
 
