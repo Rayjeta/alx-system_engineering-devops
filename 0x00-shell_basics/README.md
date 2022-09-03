@@ -9,4 +9,5 @@ script 7-moves betty file to a directory in tmp
 script 8-deletes my first directoryy in tmp
 script 9-deletes my first directory
 script 10-changes working directory to previous one
-script 11-lists all files 
+script 11-lists all files
+script 12-prints file type
